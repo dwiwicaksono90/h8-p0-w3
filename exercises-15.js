@@ -1,5 +1,5 @@
 function groupAnimals(animals) {
-  animalsSort = animals.sort()
+  var animalsSort = animals.sort()
   var temp = []
   var hasil = []
 
